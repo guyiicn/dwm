@@ -46,3 +46,7 @@ Configuration
 -------------
 The configuration of dwm is done by creating a custom config.h
 and (re)compiling the source code.
+
+change ALT+p to rofi
+change Shift+ALT+Retrun to deepin-terminal
+add Shift+Return to firefox
